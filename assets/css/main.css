@@ -2201,6 +2201,10 @@ input, select, textarea {
 			vertical-align: middle;
 		}
 
+		#header #subtitle {
+			color: #fff
+		}
+
 		#header header {
 			display: inline-block;
 		}
