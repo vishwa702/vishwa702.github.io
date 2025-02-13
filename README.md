@@ -1,2 +1,2 @@
 # vishwa702.github.io
-My Portfolio
+Click here to [visit my portfolio](https://vishwa702.github.io/index.html).
