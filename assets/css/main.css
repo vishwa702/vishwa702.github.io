@@ -226,6 +226,25 @@ input, select, textarea {
 		font-size: 0.8em;
 	}
 
+	/* Custom */
+
+	.project-link-btn {
+		color: white;
+		font-size: medium;
+		margin-left: 20px;
+		padding: 10px 20px;
+		background-color: #9a59c0;
+		border-radius: 5px;
+		text-decoration: none;
+		display: inline-block;
+		text-decoration: none;
+	
+	}
+	.project-link-btn:visited {
+		color: white;  /* Ensures visited links remain white */
+		text-decoration: none;
+	}
+
 /* Container */
 
 	.container {
@@ -518,22 +537,7 @@ input, select, textarea {
 				}
 
 
-		 .project-link-btn {
-			color: white;
-			font-size: medium;
-			margin-left: 20px;
-			padding: 10px 20px;
-			background-color: #9a59c0;
-			border-radius: 5px;
-			text-decoration: none;
-			display: inline-block;
-			text-decoration: none;
 		
-		}
-		.project-link-btn:visited {
-			color: white;  /* Ensures visited links remain white */
-			text-decoration: none;
-		}
 
 		@media screen and (max-width: 1680px) {
 
